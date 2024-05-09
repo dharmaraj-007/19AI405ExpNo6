@@ -115,11 +115,10 @@ def minimax(game)
 end
 ```
 ### Program:
-```
+```Python
 Developed By: Dharmaraj S
 Register No : 212222240025
-```
-```Python
+
 import time               
 class Game:                
     def __init__(self):
